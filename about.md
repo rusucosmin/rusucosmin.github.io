@@ -1,19 +1,12 @@
 ---
 layout: page
-title: About Pixyll
+title: About me 
 permalink: /about/
 ---
 
-This Jekyll theme was crafted with <3 by [John Otander](http://johnotander.com)
-([@4lpine](https://twitter.com/4lpine)).
+Hi!
 
-Checkout the [Github repository](https://github.com/johnotander/pixyll) to download it,
-request a feature, report a bug, or contribute. It's free, and open source
-([MIT](http://opensource.org/licenses/MIT)).
+My name is Cosmin, I'm a self-learner gym-addicted competitive-programmer currently staying in [Beclean, Romania](https://www.google.ro/maps/place/Beclean/data=!4m2!3m1!1s0x4749e93c176f0655:0x35a709e69fcd0462?sa=X&sqi=2&ved=0CB4Q8gEwAGoVChMI6rDByIjGxwIVob9yCh0dQwbm).
 
-Thanks to the following:
+Feel free to say `Hello` on [Github](https://github.com/{{ site.github_username }}), [Twitter](https://twitter.com/{{ site.twitter_username }}), [Google+](https://plus.google.com/u/0/+{{ site.google_plus_id }}) or [Facebook](https://www.facebook.com/{{site.facebook_username}}).
 
-* [BASSCSS](http://basscss.com)
-* [Jekyll](http://jekyllrb.com)
-* [Refills](http://refills.bourbon.io/)
-* [Type Scale](http://type-scale.com/)
